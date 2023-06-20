@@ -5,6 +5,7 @@
         <Nullable>enable</Nullable>
         <OutputType>Exe</OutputType>
         <LangVersion>latest</LangVersion>
+        <RootNamespace>Scatchpad.Apm</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

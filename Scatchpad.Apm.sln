@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scatchpad.Apm", "Scatchpad.Apm\Scatchpad.Apm.csproj", "{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}"
 EndProject
