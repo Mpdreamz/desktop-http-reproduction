@@ -6,6 +6,8 @@ using System.Net.Http;
 using var httpClient = new HttpClient();
 httpClient.BaseAddress = new Uri("http://localhost:5000");
 
+
+Activity.DefaultIdFormat = ActivityIdFormat.W3C;
 var activitySource = new ActivitySource("temp");
 var listener = new HttpClientGlobalListener();
 using var subscription = DiagnosticListener.AllListeners.Subscribe(listener);
