@@ -44,7 +44,6 @@ test-results/*
 CMake*
 CTest*
 !CTestReproduce
-*.sln
 *.vcxproj*
 *.log
 [Tt]est*/

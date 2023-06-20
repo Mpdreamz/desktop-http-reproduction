@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scatchpad.Apm", "Scatchpad.Apm\Scatchpad.Apm.csproj", "{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD444A9-F378-488C-A9B2-F048ABE2BE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2E5F7B-8F80-4FC5-888B-E35B0BA5FE46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
